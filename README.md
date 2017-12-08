@@ -15,7 +15,7 @@ To run this,
 
 To run the random version,
 
-python RandomGIBBS_sampler.py
+`python RandomGIBBS_sampler.py`
 
 
 ##3. Variational Bayes
