@@ -10,7 +10,8 @@ To run this,
 
 ## 2. Gibbs Sampling
 
-- To run this
+To run this,
+
 `python Gibbs_sampler.py`
 
 To run the random version,
